@@ -7,8 +7,9 @@ Como respuesta trae el json y con javascript muestro por consola y pantalla el r
 
 Se utilizo:
 
-Lenguaje:  
-Python,javascript.
+Lenguaje:
+Python
+javascript
 
 Frameworks:   
 Flask     
@@ -28,5 +29,5 @@ pip install Flask
 WTForms:       
 pip install Flask-WTF
 
-Una vez instalado se debe posicionar en la carpeta del proyecto y ejecutar el comando : "python main.py"
+Una vez instalado se debe posicionar en la carpeta del proyecto con la linea de comandos y ejecutar el comando : "python main.py"
 Luego deberá ingresar a un navegador y teclear: "localhost:8000".
