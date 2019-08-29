@@ -8,11 +8,11 @@ Como respuesta trae el json y con javascript muestro por consola y pantalla el r
 Se utilizo:
 
 Lenguaje:
-Python,
+ Python,
 Javascript
 
 
-Frameworks:Flask,Jquery
+Frameworks: Flask,Jquery
 
 Editor de código:  Visual studio code.
 
@@ -21,11 +21,9 @@ Se necesita instalar:
 Python: 
 https://www.python.org/
 
-Flask:       
-pip install Flask
+Flask: pip install Flask
 
-WTForms:       
-pip install Flask-WTF
+WTForms:  pip install Flask-WTF
 
 Una vez instalado se debe posicionar en la carpeta del proyecto con la linea de comandos y ejecutar el comando : "python main.py"
 Luego deberá ingresar a un navegador y teclear: "localhost:8000".
