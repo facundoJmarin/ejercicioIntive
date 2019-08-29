@@ -8,7 +8,9 @@ Como respuesta trae el json y con javascript muestro por consola y pantalla el r
 Se utilizo:
 
 Lenguaje:
+
 Python
+
 javascript
 
 Frameworks:   
