@@ -8,17 +8,13 @@ Como respuesta trae el json y con javascript muestro por consola y pantalla el r
 Se utilizo:
 
 Lenguaje:
+Python,
+Javascript
 
-Python
 
-javascript
+Frameworks:Flask,Jquery
 
-Frameworks:   
-Flask     
-jquery
-
-Editor de código:     
-Visual studio code.
+Editor de código:  Visual studio code.
 
 Se necesita instalar:
 
