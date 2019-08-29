@@ -7,15 +7,15 @@ Como respuesta trae el json y con javascript muestro por consola y pantalla el r
 
 Se utilizo:
 
-Lenguaje: Python,javascript.
-Frameworks: Flask, jquery.
-Editor de código: Visual studio code.
+Lenguaje:    Python,javascript.
+Frameworks:   Flask,      jquery.
+Editor de código:      Visual studio code.
 
 Se necesita instalar:
 
 Python: https://www.python.org/
-Flask: pip install Flask
-WTForms: pip install Flask-WTF
+  Flask:       pip install Flask
+    WTForms:       pip install Flask-WTF
 
 Una vez instalado se debe posicionar en la carpeta del proyecto y ejecutar el comando : "python main.py"
-Luego deberá ingresar a un navegador y teclear: localhost 8000.
+Luego deberá ingresar a un navegador y teclear: "localhost:8000".
