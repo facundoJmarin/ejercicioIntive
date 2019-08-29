@@ -1,0 +1,38 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+{% block content %}
+
+
+
+{%  from "_macro.html" import render_field %}
+
+
+<div class="container">
+        <div class="row">
+          <div class="col-sm">
+            
+          </div>
+          <div class="col-sm">
+                <form method="POST" id="sendID">
+                        {{ render_field(form.user_id, class='form-control' ) }}
+                    <br>
+                    <div class="form-group" col-xs-12>
+                        <button type="submit" class="btn btn-success">SEND</button>
+                    </div>
+
+                    </form>
+          </div>
+          <div class="col-sm">
+
+            
+            
+          </div>
+
+          
+      </div>
+
+
+
+{% endblock %}

@@ -1,0 +1,19 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="{{  url_for('static', filename='js/jquery.js')  }}"></script>
+
+{% block content %}
+
+
+
+{%  from "_macro.html" import render_field %}
+
+
+<input type="hidden" id="url" name="url" value={{url}}>
+
+<div id="showUser" name="showUser">
+    
+</div>
+
+
+
+{% endblock %}
